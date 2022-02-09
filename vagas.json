@@ -1,0 +1,18 @@
+{
+	"vagas": [{
+			"id": 1,
+			"nome": "Desenvolver front-end",
+			"foto": "foto1.jpg",
+			"descricao": "vaga para programadores front-end",
+			"salario": 5000
+		},
+
+		{
+			"id": 1,
+			"nome": "Desenvolver back-end",
+			"foto": "foto1.jpg",
+			"descricao": "vaga para programadores back-end",
+			"salario": 5000
+		}
+	]
+}
